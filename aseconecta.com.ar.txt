@@ -1,0 +1,348 @@
+Resultados SSL para aseconecta.com.ar
+Fecha: Thu Mar 26 19:32:00 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 93
+============================================================
+Host: 3scale-cont.apps.osprod02.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: 3scale.apps.osnoprod01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: adt-uat-apicast.apps.osnoprod01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: apps.osnoprod01.apigee.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: archivos-api-sc-prod.apps.osprod02.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: archivos-api-sc-test.apps.osnoprod01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: archivos-api-sc-uat.apps.osnoprod01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: archivos-api-servicioscomunes-prod.apps.osprod02.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: archivos-api-servicioscomunes-test.apps.osnoprod01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: archivos-api-servicioscomunes-uat.apps.osnoprod01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: ase-ventas-bff-aseventas-pruebaocp.uat.osnoprod01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: ase2-ventas-bff-aseventas-prod.apps.osprod02.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: aseventas-test-apicast-production.3scale.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: aseventas-test-apicast-staging.3scale.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: aseventas-test-staging.apps.osnoprod01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: aseventas-ws-uat.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: camdoctor-ws-dev.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: camdoctor-ws-preprod.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: camdoctor-ws-prod.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: camdoctor-ws-test.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: crm-desa.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: crm-test.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: crm-uat.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: crm.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: geocoding-prod-ws.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: geocoding-uat-ws.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: grafana.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: grafana01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: grafana02.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: interactiva.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: intml.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: liqprodase.apps.openshift.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: liqtest.apps.openshift.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: liquat.apps.openshift.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: mediflex-ws-desa.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: mediflex-ws-uat.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: nginx-medifemobile-test.apps.osnoprod01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: prestador-api-tst.apps.osnoprod01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: prestadores-api-aseprestadores-test.apps.osnoprod01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: proxy-sigo-api-sume-prod.apps.openshift.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: salesforce-proxy-api.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: sat.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: serviceshealth-test.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: serviceshealth.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: smcc-ws-ase-prod.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: smcc-ws-ase-test.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: smcc-ws-ase-uat.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: smcc-ws-medife-prod.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: smcc-ws-medife-test.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: smcc-ws-medife-uat.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: smcc-ws-preprod.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: snipeit01.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: sofia-test.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: sofia.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: test-prod-salesforce-lb.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: test-uat-salesforce-lb.aseconecta.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: campicomm.aseconecta.com.ar
+Estado: [OK_37d]
+IP: 190.216.66.229
+subject=CN = campicomm.aseconecta.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R12
+notAfter=May  3 07:09:03 2026 GMT
+------------------------------------------------------------
+Host: liqprod.apps.openshift.aseconecta.com.ar
+Estado: [OK_37d]
+IP: 190.216.4.204
+subject=CN = liqprod.apps.openshift.aseconecta.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R12
+notAfter=May  3 07:16:50 2026 GMT
+------------------------------------------------------------
+Host: sume.aseconecta.com.ar
+Estado: [OK_37d]
+IP: 190.216.66.229
+subject=CN = campicomm.aseconecta.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R12
+notAfter=May  3 07:09:03 2026 GMT
+------------------------------------------------------------
+Host: frontend01.aseconecta.com.ar
+Estado: [OK_44d]
+IP: 200.41.39.108
+subject=CN = webserviceapp.medife.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R12
+notAfter=May 10 08:57:21 2026 GMT
+------------------------------------------------------------
+Host: geocoding-dev-ws.aseconecta.com.ar
+Estado: [OK_72d]
+IP: 200.41.39.110
+subject=CN = aseredesdocumentacion.ase.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R12
+notAfter=Jun  7 05:34:52 2026 GMT
+------------------------------------------------------------
+Host: geocoding-test-ws.aseconecta.com.ar
+Estado: [OK_72d]
+IP: 200.41.39.110
+subject=CN = aseredesdocumentacion.ase.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R12
+notAfter=Jun  7 05:34:52 2026 GMT
+------------------------------------------------------------
+Host: test-salesforce-lb.aseconecta.com.ar
+Estado: [OK_75d]
+IP: 34.54.7.71
+subject=CN = test-salesforce-lb.aseconecta.com.ar
+issuer=C = US, O = Google Trust Services, CN = WR3
+notAfter=Jun  9 20:59:36 2026 GMT
+------------------------------------------------------------
+Host: prueba02-os4prod.aseconecta.com.ar
+Estado: [OK_77d]
+IP: 34.160.148.125
+subject=CN = analytics.yeslak.com
+issuer=C = US, O = Google Trust Services, CN = WR3
+notAfter=Jun 12 10:34:31 2026 GMT
+------------------------------------------------------------
+Host: secure-proxy-api-sume2-test.aseconecta.com.ar
+Estado: [OK_82d]
+IP: 34.54.7.71
+subject=CN = secure-proxy-api-sume2-test.aseconecta.com.ar
+issuer=C = US, O = Google Trust Services, CN = WR3
+notAfter=Jun 16 22:06:10 2026 GMT
+------------------------------------------------------------
+Host: api01-3scale.apps.openshift.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.58
+------------------------------------------------------------
+Host: api01-test-3scale.apps.openshift.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 10.3.11.125
+------------------------------------------------------------
+Host: api01-uat-3scale.apps.openshift.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 10.3.11.125
+------------------------------------------------------------
+Host: apicast-production-sume-prod.apps.osprod01.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.3.27.244
+------------------------------------------------------------
+Host: apicast-staging-sume-dev.apps.osnoprod01.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.3.27.244
+------------------------------------------------------------
+Host: apicast-staging-sume-prod.apps.osprod01.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.3.27.244
+------------------------------------------------------------
+Host: aseventas-ws-prod.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 200.41.39.107
+------------------------------------------------------------
+Host: bi.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.3.27.230
+------------------------------------------------------------
+Host: mediflex-ws-prod.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 186.18.215.153
+------------------------------------------------------------
+Host: mediflex-ws-test.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 186.18.215.153
+------------------------------------------------------------
+Host: mercadopago-integracion-api-sume3-test.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: mp-ws-prod.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 186.18.215.156
+------------------------------------------------------------
+Host: mp-ws-test.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 186.18.215.156
+------------------------------------------------------------
+Host: mp-ws-uat.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 186.18.215.156
+------------------------------------------------------------
+Host: portal.bi.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.2.16.136
+------------------------------------------------------------
+Host: prueba01-os4noprod.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.3.27.244
+------------------------------------------------------------
+Host: salesforce-proxy-api-sume-prod.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: salesforce-proxy-api-sume-uat.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: salesforce-proxy-api-sume2-dev.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: salesforce-proxy-api-sume2-test.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: salesforce-ws-ase-prod.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: salesforce-ws-ase-test.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: secure-proxy-api-sume-prod.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: secure-proxy-api-sume-uat.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: sigo-apicast-staging-sume-dev.apps.osnoprod01.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.3.27.244
+------------------------------------------------------------
+Host: smcc-ws-prod.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.57
+------------------------------------------------------------
+Host: smcc-ws-test.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.57
+------------------------------------------------------------
+Host: smcc-ws-uat.aseconecta.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.57
+------------------------------------------------------------

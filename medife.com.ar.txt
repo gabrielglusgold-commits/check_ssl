@@ -1,0 +1,472 @@
+Resultados SSL para medife.com.ar
+Fecha: Thu Mar 26 19:34:15 UTC 2026
+DNS usado: 8.8.8.8
+Subdominios encontrados: 115
+============================================================
+Host: admin-webmedife.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: apps.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: apps2.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: auditoriadeterreno.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: auditoriadeterrenouat.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: camdoctor10x-dev.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: camdoctor10x-test.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: camdoctor10x-uat.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: camdoctor2.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: compensaciones-uat.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: crmgrupoase-preprod.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: crmgrupoase-test.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: engage-desa.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: engage-test.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: engage-uat.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: engagedesa.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: fuentedelsaber.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: fuentedelsabercont.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: fuentedelsabertest.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: fuentesdelsaber.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: labobs.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: matias.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: monitoriaredes01.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: monitoriaredes02.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: motordereglas-test.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: nexo10x-dev.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: nexo10x-test.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: nexo10x-uat.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: portal-nac.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: profesional.camdoctor10x-dev.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: profesional.camdoctor10x-test.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: profesional.camdoctor10x-uat.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: vc-dev.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: vc-test.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: vc-uat.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: web-lifia-uat.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: webmedife-proxy-api-desa.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: webmedife-proxy-api-int-prod.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: webmedife-proxy-api-test.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: webmedife-proxy-api-uat.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: webpreprodatci.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: webserviceapp-desa.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: webserviceapp-test.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: webserviceapp-uat.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: webservicecamdoctor-dev.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: webtestatci.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: wellness-api-prod.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: ws-ocp-paginar-desa.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: ws-ocp-paginar-prod.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: ws-ocp-paginar-test.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: ws-ocp-paginar-uat.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.camdoctor.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.facturacion.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.nac-aseconecta.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.portal-nac.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: www.vpn.medife.com.ar
+Estado: [NO_RESUELVE]
+------------------------------------------------------------
+Host: socket-produccion-camdoctor3.medife.com.ar
+Estado: [OK_1383d]
+IP: 35.247.220.160
+subject=CN = 35.247.252.18
+issuer=CN = 5d2c1905-89fe-4b64-bb5f-cd4b0eb7dc2c
+notAfter=Jan  8 03:00:08 2030 GMT
+------------------------------------------------------------
+Host: web.medife.com.ar
+Estado: [OK_166d]
+IP: 35.247.248.88
+subject=CN = www.medife.com.ar
+issuer=C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+notAfter=Sep  9 11:51:22 2026 GMT
+------------------------------------------------------------
+Host: web2.medife.com.ar
+Estado: [OK_166d]
+IP: 35.247.248.88
+subject=CN = www.medife.com.ar
+issuer=C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+notAfter=Sep  9 11:51:22 2026 GMT
+------------------------------------------------------------
+Host: webpreprod.medife.com.ar
+Estado: [OK_166d]
+IP: 35.199.95.121
+subject=CN = www.medife.com.ar
+issuer=C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+notAfter=Sep  9 11:51:22 2026 GMT
+------------------------------------------------------------
+Host: www.medife.com.ar
+Estado: [OK_166d]
+IP: 35.198.7.249
+subject=CN = www.medife.com.ar
+issuer=C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+notAfter=Sep  9 11:51:22 2026 GMT
+------------------------------------------------------------
+Host: www.webpreprod.medife.com.ar
+Estado: [OK_166d]
+IP: 35.199.95.121
+subject=CN = www.medife.com.ar
+issuer=C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+notAfter=Sep  9 11:51:22 2026 GMT
+------------------------------------------------------------
+Host: mailing.medife.com.ar
+Estado: [OK_198d]
+IP: 75.2.22.30
+subject=CN = ssl106.icommarketing.com
+issuer=C = US, O = Amazon, CN = Amazon RSA 2048 M04
+notAfter=Oct 10 23:59:59 2026 GMT
+------------------------------------------------------------
+Host: www.mailing.medife.com.ar
+Estado: [OK_198d]
+IP: icommarketing.com.
+subject=CN = ssl106.icommarketing.com
+issuer=C = US, O = Amazon, CN = Amazon RSA 2048 M04
+notAfter=Oct 10 23:59:59 2026 GMT
+------------------------------------------------------------
+Host: camdoctor.medife.com.ar
+Estado: [OK_37d]
+IP: medife-telemedicina-produccion.web.app.
+subject=CN = camdoctor.medife.com.ar
+issuer=C = US, O = Google Trust Services, CN = WR3
+notAfter=May  3 00:33:38 2026 GMT
+------------------------------------------------------------
+Host: crmdesapublico01.medife.com.ar
+Estado: [OK_37d]
+IP: 190.216.66.229
+subject=CN = campicomm.aseconecta.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R12
+notAfter=May  3 07:09:03 2026 GMT
+------------------------------------------------------------
+Host: wha-infobit.medife.com.ar
+Estado: [OK_37d]
+IP: 190.216.66.229
+subject=CN = campicomm.aseconecta.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R12
+notAfter=May  3 07:09:03 2026 GMT
+------------------------------------------------------------
+Host: mail2.medife.com.ar
+Estado: [OK_44d]
+IP: 200.41.39.108
+subject=CN = webserviceapp.medife.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R12
+notAfter=May 10 08:57:21 2026 GMT
+------------------------------------------------------------
+Host: webserviceapp.medife.com.ar
+Estado: [OK_44d]
+IP: 200.41.39.108
+subject=CN = webserviceapp.medife.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R12
+notAfter=May 10 08:57:21 2026 GMT
+------------------------------------------------------------
+Host: camdoctor10x.medife.com.ar
+Estado: [OK_70d]
+IP: 34.95.234.216
+subject=CN = camdoctor10x.medife.com.ar
+issuer=C = US, O = Google Trust Services, CN = WR3
+notAfter=Jun  5 09:32:04 2026 GMT
+------------------------------------------------------------
+Host: profesional.camdoctor10x.medife.com.ar
+Estado: [OK_70d]
+IP: 34.95.234.216
+subject=CN = camdoctor10x.medife.com.ar
+issuer=C = US, O = Google Trust Services, CN = WR3
+notAfter=Jun  5 09:32:04 2026 GMT
+------------------------------------------------------------
+Host: nexo10x.medife.com.ar
+Estado: [OK_71d]
+IP: 34.13.127.244
+subject=CN = nexo10x.medife.com.ar
+issuer=C = US, O = Google Trust Services, CN = WR3
+notAfter=Jun  6 11:35:34 2026 GMT
+------------------------------------------------------------
+Host: ccamdoctor.medife.com.ar
+Estado: [OK_73d]
+IP: 67.205.166.116
+subject=CN = *.videoconsultas.app
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+notAfter=Jun  7 23:59:59 2026 GMT
+------------------------------------------------------------
+Host: callcamdoctor2.medife.com.ar
+Estado: [OK_89d]
+IP: 35.198.28.229
+subject=CN = pagli.ossbrasil.com
+issuer=C = US, O = Let's Encrypt, CN = E8
+notAfter=Jun 24 16:28:31 2026 GMT
+------------------------------------------------------------
+Host: facturacion.medife.com.ar
+Estado: [POR_VENCER_17d]
+IP: 190.216.66.229
+subject=CN = facturacion.medife.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R13
+notAfter=Apr 12 20:44:55 2026 GMT
+------------------------------------------------------------
+Host: webmedife-proxy-api-prod.medife.com.ar
+Estado: [POR_VENCER_30d]
+IP: 190.216.4.198
+subject=CN = webmedife-proxy-api-prod.medife.com.ar
+issuer=C = US, O = Let's Encrypt, CN = R13
+notAfter=Apr 26 02:54:05 2026 GMT
+------------------------------------------------------------
+Host: autodiscover.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.2.16.134
+------------------------------------------------------------
+Host: call-produccion.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 35.199.67.180
+------------------------------------------------------------
+Host: call-test.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 34.176.153.229
+------------------------------------------------------------
+Host: call-uat.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 35.198.63.136
+------------------------------------------------------------
+Host: call.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 34.176.15.236
+------------------------------------------------------------
+Host: callprodn.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 35.199.67.180
+------------------------------------------------------------
+Host: correo.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.216.66.230
+------------------------------------------------------------
+Host: correo2.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.216.66.230
+------------------------------------------------------------
+Host: dcamdoctor.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 107.170.117.232
+------------------------------------------------------------
+Host: hibrido.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.216.66.230
+------------------------------------------------------------
+Host: mail.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 200.41.39.107
+------------------------------------------------------------
+Host: mail3.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.216.4.199
+------------------------------------------------------------
+Host: medihelpbackend.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 20.185.80.195
+------------------------------------------------------------
+Host: motordereglas-dev.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 10.55.56.12
+------------------------------------------------------------
+Host: nac-aseconecta.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 172.16.10.27
+------------------------------------------------------------
+Host: saturno.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 200.41.39.107
+------------------------------------------------------------
+Host: smtpweb.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 20.47.86.124
+------------------------------------------------------------
+Host: smtpweb2.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 20.47.86.124
+------------------------------------------------------------
+Host: socket-uat-camdoctor.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 35.198.55.219
+------------------------------------------------------------
+Host: socket.camdoctor2.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 34.73.167.7
+------------------------------------------------------------
+Host: socket.test.camdoctor2.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 34.148.229.231
+------------------------------------------------------------
+Host: tuvok.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.216.66.227
+------------------------------------------------------------
+Host: vpn.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 186.18.215.147
+------------------------------------------------------------
+Host: vpnint.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.3.14.43
+------------------------------------------------------------
+Host: vpnipsec.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.2.16.139
+------------------------------------------------------------
+Host: wap.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: medife.toservers.com.
+------------------------------------------------------------
+Host: web1.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 190.216.66.227
+------------------------------------------------------------
+Host: webatci2.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 191.238.209.252
+------------------------------------------------------------
+Host: webdesa.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 200.55.47.152
+------------------------------------------------------------
+Host: webpreprodgcp.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 35.247.252.48
+------------------------------------------------------------
+Host: webservicecamdoctor-test.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.56
+------------------------------------------------------------
+Host: webservicecamdoctor-uat.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.56
+------------------------------------------------------------
+Host: webservicecamdoctor.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.56
+------------------------------------------------------------
+Host: webtest.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 10.3.56.62
+------------------------------------------------------------
+Host: wellness-api-test.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: wellness-api-uat.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: wellness-api.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 204.199.1.52
+------------------------------------------------------------
+Host: wha-infobit-test.medife.com.ar
+Estado: [SIN_SSL_O_FALLO]
+IP: 200.41.39.107
+------------------------------------------------------------
+Host: tcamdoctor.medife.com.ar
+Estado: [VENCIDO]
+IP: 198.199.86.55
+subject=OU = Domain Control Validated, CN = camdoctor.medife.com.ar
+issuer=C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+notAfter=Sep  6 19:28:27 2022 GMT
+------------------------------------------------------------
